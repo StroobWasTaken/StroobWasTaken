@@ -1,16 +1,14 @@
-### Hi there 👋
+### Ello there 👋
 
-<!--
-**stroobs/stroobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Im stroob AKA Radello
+- From england 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+- Fluent in Python, Lua, Javascript
+- Currently learning C# and WPF for software development 💪
+- ROBLOX Veteran Est. 2013 👴
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Funny code:
+```
+import os
+while True:
+    os.fork()
+```
