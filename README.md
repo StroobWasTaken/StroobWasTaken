@@ -6,7 +6,7 @@
 - Currently learning C# and WPF for software development 💪
 - ROBLOX Veteran Est. 2013 👴
 
-##Funny code:
+## Funny code:
 ```
 import os
 while True:
