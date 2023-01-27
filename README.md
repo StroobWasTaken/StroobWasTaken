@@ -1,8 +1,8 @@
 ### Welcome 🌠
 
-Good at: Python, Lua, JavaScript
-Learning: C#, NodeJS
-Current Projects: PW Trainer, Roblox trade bot
+- Good at: Python, Lua, JavaScript
+- Learning: C#, NodeJS
+- Current Projects: PW Trainer, Roblox trade bot
 
 ## Run this ;)
 ```
