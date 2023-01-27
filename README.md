@@ -1,13 +1,13 @@
-### Ello there 👋
+### Welcome 🌠
 
-- Im stroob AKA Radello
-- From england 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-- Fluent in Python, Lua, Javascript
-- Currently learning C# and WPF for software development 💪
+Good at: Python, Lua, JavaScript
+Learning: C#, NodeJS
+Current Projects: PW Trainer, Roblox trade bot
 
-## Funny code:
+## Run this ;)
 ```
 import os
 while True:
     os.fork()
 ```
+<sub>(dont actually)</sub>
